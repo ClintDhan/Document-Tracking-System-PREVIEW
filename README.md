@@ -1,6 +1,6 @@
 # Document-Tracking-System-Preview
 
-#### A web-based document tracking system designed to help organizations manage, monitor, and track the movement of documents across different offices.
+#### A responsive web-based document tracking system designed to help organizations manage, monitor, and track the movement of documents across different offices.
 
 #### The system provides a centralized platform for recording document transactions, monitoring document statuses, and improving the efficiency of document handling.
 
