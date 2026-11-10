@@ -67,9 +67,10 @@
 
 ## Key Features
 
-Document Registration – Register incoming documents and generate unique document tracking numbers.
 
-QR Code Generation – Automatically generate QR codes for documents to simplify identification and tracking.
+QR Code Generation – Generate unique QR codes with tracking identifiers independently of document registration. These codes can later be assigned to incoming physical documents.
+
+Document Registration – Register incoming physical documents by scanning an available QR code or manually entering its tracking identifier, linking the document to its assigned tracking record.
 
 Document Tracking – Monitor document movements and view their current status.
 
