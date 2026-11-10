@@ -74,7 +74,7 @@ Document Registration – Register incoming physical documents by scanning an av
 
 Document Tracking – Monitor document movements and view their current status.
 
-Status Management – Track documents through different stages, including Received, Reviewed, Under Review, Released, and Returned.
+Status Management – Track documents through different stages, including Received, Approved, For MJCA Approval, Released, and Returned.
 
 User Management – Manage system users and their respective roles and permissions.
 
