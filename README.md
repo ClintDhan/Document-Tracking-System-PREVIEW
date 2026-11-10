@@ -68,28 +68,41 @@
 ## Key Features
 
 Document Registration – Register incoming documents and generate unique document tracking numbers.
+
 QR Code Generation – Automatically generate QR codes for documents to simplify identification and tracking.
+
 Document Tracking – Monitor document movements and view their current status.
+
 Status Management – Track documents through different stages, including Received, Reviewed, Under Review, Released, and Returned.
+
 User Management – Manage system users and their respective roles and permissions.
+
 Centralized Records – Maintain organized document records for easier monitoring and retrieval.
 
 
 ## User Roles
 
 Super Administrator – Manage system-wide settings and administrative access.
+
 Administrator – Manage document records and oversee document transactions.
+
 User – Access document tracking and perform authorized operations.
 
 
 ## Technologies Used
 
 HTML
+
 CSS
+
 JavaScript
+
 PHP
+
 MySQL
+
 Bootstrap
+
 QR Code Generation Library
 
 
@@ -104,9 +117,13 @@ QR Code Generation Library
 ## Project Information
 
 Project Type - Web-Based Application
+
 Category - Document Management System
+
 Database - MySQL
+
 Deployment - Local Network
+
 Purpose - Document Monitoring and Tracking
 
 ## Note
