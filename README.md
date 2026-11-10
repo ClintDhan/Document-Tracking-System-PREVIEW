@@ -112,13 +112,13 @@ QR Code Generation Library
 
 2.Physical Document Reception – The physical document is received by the designated office.
 
-3. Document Registration – Personnel associate the received physical document with its corresponding QR code through QR scanning or manual entry.
+3.Document Registration – Personnel associate the received physical document with its corresponding QR code through QR scanning or manual entry.
 
-4. Document Processing – The document is forwarded to the appropriate office for review and processing.
+4.Document Processing – The document is forwarded to the appropriate office for review and processing.
 
-5. Status Updates – Authorized personnel update the document's status as it moves through the workflow.
+5.Status Updates – Authorized personnel update the document's status as it moves through the workflow.
 
-6. Document Tracking – Users can monitor the document's current status and track its movement across offices.
+6.Document Tracking – Users can monitor the document's current status and track its movement across offices.
 
 ## Project Information
 
