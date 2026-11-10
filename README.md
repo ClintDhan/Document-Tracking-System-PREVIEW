@@ -1,6 +1,6 @@
 # Document Tracking System - Preview
 
-#### A responsive web-based document tracking system designed to help organizations manage, monitor, and track the movement of documents across different offices.
+#### A responsive web-based document tracking system that streamlines document monitoring and management through QR code integration
 
 #### The system provides a centralized platform for recording document transactions, monitoring document statuses, and improving the efficiency of document handling.
 
